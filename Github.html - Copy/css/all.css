@@ -1,0 +1,57 @@
+body {
+	background-color: gray;
+}
+
+.container { 
+	text-align: left;
+	color: black;
+}
+
+.nav-bar {
+	text-align: center;
+	box-shadow: 2px 1px;
+	border: 3px solid;
+    border-radius: 20px
+}
+.nav-bar a {
+	display: inline-block;
+	padding: 15px 13px;
+	text-decoration: none;
+	color: white;
+}
+
+.info-contact {
+	text-align: left;
+	font-family: arial;
+	color: white;
+	padding-left: 50px;
+}
+
+.info-mijzelf {
+	text-align: left;
+	font-family: arial;
+	background-color: white;
+	padding-left: 50px;
+}
+
+
+
+
+#header { 
+    height: 64px;
+    text-align: left;
+}
+
+a.active {
+	background-color:black;
+}
+
+a:hover {
+	background-color:darkgrey;
+}
+
+#footer {
+	position: fixed;
+	bottom: 0;
+	background-color: white;
+}
